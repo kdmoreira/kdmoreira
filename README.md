@@ -5,7 +5,7 @@ My name is Karina and I'm a first-year computer engineering student.
 - 🔭 I’m currently working on web scrapers using BeautifulSoup.
 - 🌱 I’m currently learning more about web development and data science.
 - 📫 How to reach me: karina.dlmr@gmail.com
-- ⚡ Fun fact: I love history, books, music and manga.
+- ⚡ Fun fact: I love history and making digital art.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdmoreira&layout=compact&exclude_repo=data-science-alura&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
