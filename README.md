@@ -2,7 +2,7 @@
 
 My name is Karina and I'm a second-year computer engineering student.
 
-- 🔭 I’m currently working on projects with .NET Core and also web scrapers using BeautifulSoup.
+- 🔭 I’m currently working on projects with .NET Core and web scrapers using BeautifulSoup.
 - 🌱 I’m currently learning more about web development and data science.
 - 📫 How to reach me: karina.dlmr@gmail.com
 - ⚡ Fun fact: I love history and making digital art.
