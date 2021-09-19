@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Karina, I'm a software development intern and a second-year computer engineering student.
+My name is Karina, I'm a Jr. Software Developer and a second-year computer engineering student.
 
 - 🔭 I’m currently working on projects with .NET Core (C#), mainly Web APIs. Once in a while I enjoy making web scrapers in Python using BeautifulSoup.
 - 🌱 I’m currently learning more about databases, focusing on management systems such as SQL Server and MongoDB. I've been improving my data structures and algorithms, too.
