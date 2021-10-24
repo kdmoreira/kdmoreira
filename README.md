@@ -2,8 +2,8 @@
 
 My name is Karina, I'm a Jr. Software Developer and a second-year computer engineering student.
 
-- 🔭 I’m currently working on projects with .NET Core (C#), mainly Web APIs. Once in a while I enjoy making web scrapers in Python using BeautifulSoup.
-- 🌱 I’m currently learning more about databases, focusing on management systems such as SQL Server and MongoDB. I've been improving my data structures and algorithms, too.
+- 🔭 I’m currently working on projects as a back-end developer, using .NET (C#) to develop web APIs for microservices. Once in a while I enjoy making web scrapers in Python using BeautifulSoup.
+- 🌱 I’m currently learning more about distributed systems and its challenges, message brokers and Docker. I've been improving my data structures and algorithms, too.
 - 📫 How to reach me: karina.dlmr@gmail.com or [Linkedin](https://www.linkedin.com/in/karina-dalarmelina-moreira-390230117/).
 - ⚡ Fun fact: I love history and making digital art.
 
