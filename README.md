@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Karina, I'm a Jr. Software Developer and a second-year computer engineering student.
+My name is Karina, I work as a Jr. Software Developer and I'm a third-year computer engineering student.
 
 - 🔭 I’m currently working on projects as a back-end developer, using .NET (C#) to develop web APIs for microservices. Once in a while I enjoy making web scrapers in Python using BeautifulSoup.
 - 🌱 I’m currently learning more about distributed systems and their challenges, message brokers and Docker. I've been improving my data structures and algorithms, too.
