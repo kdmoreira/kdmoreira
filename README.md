@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-My name is Karina, I work as a Software Engineer and I'm a third-year computer engineering student.
+“It is not enough for code to work.”
+– _Robert C. Martin_
 
-- 🔭 Until recently I was working as a back-end developer using .NET/C# to develop web APIs for microservices. Now I'll be working with Clojure.
+As a Software Engineer I work towards both learning and putting into practice what the quote above encompasses.
+
+- 🔭 At Nubank I'm part of a team that builds internal testing and productivity tools. Before that, I used to work as a .NET back-end developer building APIs for microservices.
 - 🌱 I’m currently learning more about functional programming, TDD, distributed systems, message brokers and Docker.
 - 📫 How to reach me: karina.dlmr@gmail.com or [Linkedin](https://www.linkedin.com/in/karina-dalarmelina-moreira-390230117/).
-- ⚡ Fun fact: Besides programming, I also love history and making digital art.
+- ⚡ Fun fact: besides programming, I like history, casual board games and making digital art.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdmoreira&layout=compact&exclude_repo=data-science-alura&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
