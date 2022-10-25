@@ -5,8 +5,8 @@
 
 As a Software Engineer I work towards both learning and putting into practice what the quote above encompasses.
 
-- 🔭 I'm part of a team at Nubank that uses mostly Clojure to build internal testing and productivity tools. Before that, I used to work as a back-end .NET developer.
-- 🌱 I’m currently learning more about functional programming, TDD, distributed systems and much more.
+- 🔭 I'm part of a platform team at Nubank that uses mostly Clojure to build productivity and testing tools used by the product engineering teams. Before that, I used to work as a back-end .NET developer.
+- 🌱 I’m currently learning more about cloud computing and distributed systems.
 - 📫 How to reach me: karina.dlmr@gmail.com or [Linkedin](https://www.linkedin.com/in/karina-dalarmelina-moreira-390230117/).
 - ⚡ Fun fact: besides programming, I like history, casual board games and making digital art.
 
